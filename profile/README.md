@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://github.com/NSO-Clio/.github/assets/124351915/1e145360-40cc-4d25-b121-301b265928b9" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/88579cd9-3113-4833-8e70-045c2c8cf4c9" width="50%" height="50%">
 </div>
